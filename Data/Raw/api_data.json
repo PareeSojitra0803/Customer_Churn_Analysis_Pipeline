@@ -1,0 +1,502 @@
+[
+    {
+        "customer_id": 42,
+        "last_login_days": 22,
+        "app_usage_minutes": 238
+    },
+    {
+        "customer_id": 110,
+        "last_login_days": 25,
+        "app_usage_minutes": 99
+    },
+    {
+        "customer_id": 8,
+        "last_login_days": 54,
+        "app_usage_minutes": 185
+    },
+    {
+        "customer_id": 45,
+        "last_login_days": 21,
+        "app_usage_minutes": 285
+    },
+    {
+        "customer_id": 107,
+        "last_login_days": 18,
+        "app_usage_minutes": 151
+    },
+    {
+        "customer_id": 75,
+        "last_login_days": 27,
+        "app_usage_minutes": 14
+    },
+    {
+        "customer_id": 8,
+        "last_login_days": 2,
+        "app_usage_minutes": 108
+    },
+    {
+        "customer_id": 27,
+        "last_login_days": 36,
+        "app_usage_minutes": 45
+    },
+    {
+        "customer_id": 5,
+        "last_login_days": 29,
+        "app_usage_minutes": 60
+    },
+    {
+        "customer_id": 5,
+        "last_login_days": 49,
+        "app_usage_minutes": 196
+    },
+    {
+        "customer_id": 17,
+        "last_login_days": 43,
+        "app_usage_minutes": 20
+    },
+    {
+        "customer_id": 12,
+        "last_login_days": 4,
+        "app_usage_minutes": 231
+    },
+    {
+        "customer_id": 113,
+        "last_login_days": 2,
+        "app_usage_minutes": 201
+    },
+    {
+        "customer_id": 27,
+        "last_login_days": 39,
+        "app_usage_minutes": 96
+    },
+    {
+        "customer_id": 63,
+        "last_login_days": 3,
+        "app_usage_minutes": 14
+    },
+    {
+        "customer_id": 53,
+        "last_login_days": 49,
+        "app_usage_minutes": 115
+    },
+    {
+        "customer_id": 85,
+        "last_login_days": 25,
+        "app_usage_minutes": 147
+    },
+    {
+        "customer_id": 97,
+        "last_login_days": 57,
+        "app_usage_minutes": 82
+    },
+    {
+        "customer_id": 100,
+        "last_login_days": 57,
+        "app_usage_minutes": 166
+    },
+    {
+        "customer_id": 72,
+        "last_login_days": 58,
+        "app_usage_minutes": 242
+    },
+    {
+        "customer_id": 13,
+        "last_login_days": 60,
+        "app_usage_minutes": 8
+    },
+    {
+        "customer_id": 76,
+        "last_login_days": 8,
+        "app_usage_minutes": 183
+    },
+    {
+        "customer_id": 72,
+        "last_login_days": 6,
+        "app_usage_minutes": 54
+    },
+    {
+        "customer_id": 15,
+        "last_login_days": 6,
+        "app_usage_minutes": 60
+    },
+    {
+        "customer_id": 119,
+        "last_login_days": 48,
+        "app_usage_minutes": 17
+    },
+    {
+        "customer_id": 58,
+        "last_login_days": 52,
+        "app_usage_minutes": 234
+    },
+    {
+        "customer_id": 68,
+        "last_login_days": 26,
+        "app_usage_minutes": 163
+    },
+    {
+        "customer_id": 69,
+        "last_login_days": 14,
+        "app_usage_minutes": 180
+    },
+    {
+        "customer_id": 1,
+        "last_login_days": 39,
+        "app_usage_minutes": 241
+    },
+    {
+        "customer_id": 104,
+        "last_login_days": 43,
+        "app_usage_minutes": 172
+    },
+    {
+        "customer_id": 35,
+        "last_login_days": 15,
+        "app_usage_minutes": 190
+    },
+    {
+        "customer_id": 112,
+        "last_login_days": 22,
+        "app_usage_minutes": 74
+    },
+    {
+        "customer_id": 57,
+        "last_login_days": 4,
+        "app_usage_minutes": 247
+    },
+    {
+        "customer_id": 64,
+        "last_login_days": 1,
+        "app_usage_minutes": 76
+    },
+    {
+        "customer_id": 35,
+        "last_login_days": 26,
+        "app_usage_minutes": 176
+    },
+    {
+        "customer_id": 47,
+        "last_login_days": 3,
+        "app_usage_minutes": 220
+    },
+    {
+        "customer_id": 117,
+        "last_login_days": 48,
+        "app_usage_minutes": 53
+    },
+    {
+        "customer_id": 57,
+        "last_login_days": 26,
+        "app_usage_minutes": 28
+    },
+    {
+        "customer_id": 48,
+        "last_login_days": 2,
+        "app_usage_minutes": 123
+    },
+    {
+        "customer_id": 13,
+        "last_login_days": 1,
+        "app_usage_minutes": 255
+    },
+    {
+        "customer_id": 114,
+        "last_login_days": 4,
+        "app_usage_minutes": 239
+    },
+    {
+        "customer_id": 76,
+        "last_login_days": 42,
+        "app_usage_minutes": 116
+    },
+    {
+        "customer_id": 99,
+        "last_login_days": 5,
+        "app_usage_minutes": 68
+    },
+    {
+        "customer_id": 38,
+        "last_login_days": 38,
+        "app_usage_minutes": 207
+    },
+    {
+        "customer_id": 16,
+        "last_login_days": 9,
+        "app_usage_minutes": 81
+    },
+    {
+        "customer_id": 70,
+        "last_login_days": 60,
+        "app_usage_minutes": 282
+    },
+    {
+        "customer_id": 46,
+        "last_login_days": 12,
+        "app_usage_minutes": 56
+    },
+    {
+        "customer_id": 76,
+        "last_login_days": 56,
+        "app_usage_minutes": 84
+    },
+    {
+        "customer_id": 61,
+        "last_login_days": 57,
+        "app_usage_minutes": 205
+    },
+    {
+        "customer_id": 87,
+        "last_login_days": 39,
+        "app_usage_minutes": 243
+    },
+    {
+        "customer_id": 107,
+        "last_login_days": 13,
+        "app_usage_minutes": 37
+    },
+    {
+        "customer_id": 79,
+        "last_login_days": 32,
+        "app_usage_minutes": 291
+    },
+    {
+        "customer_id": 115,
+        "last_login_days": 3,
+        "app_usage_minutes": 296
+    },
+    {
+        "customer_id": 59,
+        "last_login_days": 43,
+        "app_usage_minutes": 148
+    },
+    {
+        "customer_id": 111,
+        "last_login_days": 33,
+        "app_usage_minutes": 42
+    },
+    {
+        "customer_id": 36,
+        "last_login_days": 34,
+        "app_usage_minutes": 190
+    },
+    {
+        "customer_id": 82,
+        "last_login_days": 38,
+        "app_usage_minutes": 26
+    },
+    {
+        "customer_id": 50,
+        "last_login_days": 45,
+        "app_usage_minutes": 62
+    },
+    {
+        "customer_id": 62,
+        "last_login_days": 18,
+        "app_usage_minutes": 66
+    },
+    {
+        "customer_id": 78,
+        "last_login_days": 25,
+        "app_usage_minutes": 213
+    },
+    {
+        "customer_id": 114,
+        "last_login_days": 43,
+        "app_usage_minutes": 83
+    },
+    {
+        "customer_id": 18,
+        "last_login_days": 2,
+        "app_usage_minutes": 134
+    },
+    {
+        "customer_id": 79,
+        "last_login_days": 58,
+        "app_usage_minutes": 161
+    },
+    {
+        "customer_id": 102,
+        "last_login_days": 28,
+        "app_usage_minutes": 115
+    },
+    {
+        "customer_id": 106,
+        "last_login_days": 60,
+        "app_usage_minutes": 273
+    },
+    {
+        "customer_id": 101,
+        "last_login_days": 8,
+        "app_usage_minutes": 191
+    },
+    {
+        "customer_id": 95,
+        "last_login_days": 52,
+        "app_usage_minutes": 163
+    },
+    {
+        "customer_id": 68,
+        "last_login_days": 35,
+        "app_usage_minutes": 200
+    },
+    {
+        "customer_id": 3,
+        "last_login_days": 41,
+        "app_usage_minutes": 262
+    },
+    {
+        "customer_id": 101,
+        "last_login_days": 37,
+        "app_usage_minutes": 194
+    },
+    {
+        "customer_id": 108,
+        "last_login_days": 25,
+        "app_usage_minutes": 81
+    },
+    {
+        "customer_id": 82,
+        "last_login_days": 37,
+        "app_usage_minutes": 182
+    },
+    {
+        "customer_id": 36,
+        "last_login_days": 46,
+        "app_usage_minutes": 163
+    },
+    {
+        "customer_id": 50,
+        "last_login_days": 50,
+        "app_usage_minutes": 205
+    },
+    {
+        "customer_id": 90,
+        "last_login_days": 17,
+        "app_usage_minutes": 222
+    },
+    {
+        "customer_id": 4,
+        "last_login_days": 26,
+        "app_usage_minutes": 249
+    },
+    {
+        "customer_id": 63,
+        "last_login_days": 5,
+        "app_usage_minutes": 222
+    },
+    {
+        "customer_id": 84,
+        "last_login_days": 4,
+        "app_usage_minutes": 223
+    },
+    {
+        "customer_id": 6,
+        "last_login_days": 35,
+        "app_usage_minutes": 234
+    },
+    {
+        "customer_id": 119,
+        "last_login_days": 10,
+        "app_usage_minutes": 138
+    },
+    {
+        "customer_id": 47,
+        "last_login_days": 30,
+        "app_usage_minutes": 199
+    },
+    {
+        "customer_id": 16,
+        "last_login_days": 30,
+        "app_usage_minutes": 17
+    },
+    {
+        "customer_id": 93,
+        "last_login_days": 52,
+        "app_usage_minutes": 192
+    },
+    {
+        "customer_id": 31,
+        "last_login_days": 55,
+        "app_usage_minutes": 150
+    },
+    {
+        "customer_id": 20,
+        "last_login_days": 49,
+        "app_usage_minutes": 238
+    },
+    {
+        "customer_id": 33,
+        "last_login_days": 15,
+        "app_usage_minutes": 217
+    },
+    {
+        "customer_id": 107,
+        "last_login_days": 58,
+        "app_usage_minutes": 252
+    },
+    {
+        "customer_id": 11,
+        "last_login_days": 41,
+        "app_usage_minutes": 203
+    },
+    {
+        "customer_id": 59,
+        "last_login_days": 54,
+        "app_usage_minutes": 250
+    },
+    {
+        "customer_id": 80,
+        "last_login_days": 23,
+        "app_usage_minutes": 67
+    },
+    {
+        "customer_id": 60,
+        "last_login_days": 2,
+        "app_usage_minutes": 160
+    },
+    {
+        "customer_id": 9,
+        "last_login_days": 58,
+        "app_usage_minutes": 235
+    },
+    {
+        "customer_id": 106,
+        "last_login_days": 56,
+        "app_usage_minutes": 18
+    },
+    {
+        "customer_id": 15,
+        "last_login_days": 55,
+        "app_usage_minutes": 21
+    },
+    {
+        "customer_id": 39,
+        "last_login_days": 7,
+        "app_usage_minutes": 12
+    },
+    {
+        "customer_id": 55,
+        "last_login_days": 23,
+        "app_usage_minutes": 161
+    },
+    {
+        "customer_id": 89,
+        "last_login_days": 7,
+        "app_usage_minutes": 166
+    },
+    {
+        "customer_id": 100,
+        "last_login_days": 7,
+        "app_usage_minutes": 220
+    },
+    {
+        "customer_id": 101,
+        "last_login_days": 38,
+        "app_usage_minutes": 153
+    },
+    {
+        "customer_id": 34,
+        "last_login_days": 34,
+        "app_usage_minutes": 96
+    }
+]
