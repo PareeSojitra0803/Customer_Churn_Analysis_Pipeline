@@ -31,13 +31,12 @@ As a **Junior Data Analyst**, the task is to analyze customer data collected fro
 
 | File | Description |
 |------|------------|
-| `customers.csv` | Main customer dataset |
-| `transactions.json` | Transaction-level data |
-| `api_data.json` | Simulated API data |
-| `cleaned_data.csv` | Final processed dataset |
+| [customers.csv](Data/Raw/customers.csv) | Main customer dataset |
+| [transactions.json](Data/Raw/transactions.json) | Transaction-level data |
+| [api_data.json](Data/Raw/api.json) | Simulated API data |
+| [cleaned_data.csv](Data/Processed/cleaned_data.csv) | Final processed dataset |
 
-Example API data snippet: :contentReference[oaicite:0]{index=0}  
-Example transaction data snippet: :contentReference[oaicite:1]{index=1}  
+
 
 ---
 
